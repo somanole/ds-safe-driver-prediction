@@ -1,0 +1,4 @@
+jupyterlab==4.5.2
+seaborn==0.13.2
+scikit-learn==1.8.0
+pandas==2.3.3
