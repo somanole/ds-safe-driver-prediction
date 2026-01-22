@@ -1,4 +1,6 @@
 jupyterlab==4.5.2
 seaborn==0.13.2
-scikit-learn==1.8.0
+scikit-learn==1.5.2
 pandas==2.3.3
+catboost==1.2.8
+tqdm==4.67.1
